@@ -1,0 +1,7 @@
+pydantic
+pytest
+httpx
+flask
+flask-restful
+flasgger
+pymongo
